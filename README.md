@@ -43,11 +43,6 @@ program13:- Write a program to generate all possible permutations of a string.
 
 
 program14:- Create a C++ program to print the following pattern:
-*****
-* *
-* *
-* *
-*****
 
 
 program15:- Write a C++ program to display the following pattern:
